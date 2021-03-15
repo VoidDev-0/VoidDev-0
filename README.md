@@ -1,4 +1,4 @@
-# [![voiddev-0 header](https://raw.githubusercontent.com/VoidDev-0/VoidDev-0/main/banner.png)](https://github.com/VoidDev-0)
+# [![voiddev-0 header](https://raw.githubusercontent.com/VoidDev-0/VoidDev-0/main/banner.png?token=AO72DCSGU3G6LVE5SYJLOLTAJ5ZUE)](https://github.com/VoidDev-0)
 
 ### Hi there 👋
 
